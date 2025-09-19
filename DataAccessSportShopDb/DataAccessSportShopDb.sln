@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessSportShopDb", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess1", "..\DataAccess1\DataAccess1.csproj", "{F9544F08-A118-4BDB-9456-FD966872C679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportShopWPF", "..\SportShopWPF\SportShopWPF.csproj", "{D6B85233-957E-443E-A03A-6EC0E3D77FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F9544F08-A118-4BDB-9456-FD966872C679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9544F08-A118-4BDB-9456-FD966872C679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9544F08-A118-4BDB-9456-FD966872C679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B85233-957E-443E-A03A-6EC0E3D77FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B85233-957E-443E-A03A-6EC0E3D77FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B85233-957E-443E-A03A-6EC0E3D77FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B85233-957E-443E-A03A-6EC0E3D77FDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
